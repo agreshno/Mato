@@ -26,4 +26,6 @@ Reminder: Immunity region of phage lambda
 
 ![immunity_reg_L_phage](https://github.com/agreshno/Mato/blob/master/immunity_region_lambda_phage.jpg)
 
+![im_region_L_phage_seq](https://github.com/agreshno/Mato/blob/master/immunity_region_lambda_phage_seq.jpg)
+
 
