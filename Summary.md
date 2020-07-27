@@ -9,3 +9,19 @@ Zoom with Mato
 - get an overview of structure of Pr regions from different phages
 
 Might be useful: [operon prediction tool](http://www.softberry.com/berry.phtml?topic=index&group=programs&subgroup=gfindb&gclid=Cj0KCQjwjer4BRCZARIsABK4QeUp8Z9j2BHO1GEtD2Igz7hu5hHQCUDW8dKenXb9X3W8Ym7MdT6olssaAmAWEALw_wcB)
+
+## 27.07
+
+NCBI Protein
+
+repressor [Escherichia virus Lambda]
+NCBI Reference Sequence: [NP_040628.1](https://www.ncbi.nlm.nih.gov/protein/NP_040628.1)
+
+Display: 1000
+Filter: Organism - viruses (taxid:10239)
+
+[Rusults](https://github.com/agreshno/Mato/blob/master/seqdump%20(2).txt) - protin seq in fasta format
+
+
+
+
