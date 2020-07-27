@@ -56,7 +56,7 @@ Salmonella phage epsilon34 | NC_011976.1 | 15289-15439
 Salmonella phage 29485 | GenBank: KY709687.1 | 9249-9399
 Salmonella phage 118970_sal4 | NC_030919.1 | 12434-12584
 
-[Fasta file with 150 bp regions upstream cI gene](https://github.com/agreshno/Mato/blob/master/seq/upstream_cI_phages.txt)
+[Fasta file with 150 bp regions upstream cI gene](https://github.com/agreshno/Mato/blob/master/seq/upstream_cI_phages.txt) - Use this later
 
 [Fasta file with seqs from NCBI search](https://github.com/agreshno/Mato/blob/master/seq/cI_lambda_homoligs_complete%20seqs.txt)
 
