@@ -22,6 +22,8 @@ Filter: Organism - viruses (taxid:10239)
 
 [Rusults](https://github.com/agreshno/Mato/blob/master/seqdump%20(2).txt) - protin seq in fasta format
 
+Reminder: Immunity region of phage lambda
 
+![immunity_reg_L_phage](https://github.com/agreshno/Mato/blob/master/immunity_region_lambda_phage.jpg)
 
 
