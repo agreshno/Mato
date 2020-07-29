@@ -36,7 +36,7 @@ Fig.2 Detailed structure of PR region of phage Lambda
 
 150 bp upstream cI gene from available viral genomes
 
-Table 1. Coordinates of regions from genomes for analysis
+Table 1. Coordinates of regions from genomes (homologs of cI lambda) for analysis
 
 Organism | RefSeq ID | Coordinates
 --|--|--
@@ -76,7 +76,17 @@ Decicded to add to this list of homologs spme PR regions from the literature
 
 Fig.3 Activities of Prs from different phages (from Claudia's thesis)
 
+Table 2. Coordinates of regions from genomes (from Claudia's thesis) for analysis
 
+Organism | RefSeq ID | Coordinates
+--|--|--
+Enterobacteria phage P22 | NC_002371.2 | 31883-32033
+Enterobacteria phage phi80 | NC_021190.1 | 35302-35452
+Enterobacteria phage HK620 | NC_002730.1 | 9116-9266
+Enterobacteria phage 933W | NC_000924.1 | 12783-12933
+Bacteriophage 434 | GenBank: J02460.1 | 1-150
 
+I have a feeling that Enterobacteria phage P22 has completely different organisation of its immunity region.
 
+No full genome of Bacteriophage 434; only an entry with the regulatiry region.
 
