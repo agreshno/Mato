@@ -26,11 +26,17 @@ Reminder: Immunity region of phage lambda
 
 ![immunity_reg_L_phage](https://github.com/agreshno/Mato/blob/master/immunity_region_lambda_phage.jpg)
 
+Fig.1 Structure of PR region of phage Lambda
+
 ![im_region_L_phage_seq](https://github.com/agreshno/Mato/blob/master/immunity_region_lambda_phage_seq.jpg)
+
+Fig.2 Detailed structure of PR region of phage Lambda
 
 ### First attempt
 
 150 bp upstream cI gene from available viral genomes
+
+Table 1. Coordinates of regions from genomes for analysis
 
 Organism | RefSeq ID | Coordinates
 --|--|--
@@ -62,7 +68,13 @@ Salmonella phage 118970_sal4 | NC_030919.1 | 12434-12584
 
 [Fasta file with seqs from NCBI seqarch and available genomes](https://github.com/agreshno/Mato/blob/master/seq/cI_lambda_homologs_complete-seqs_with_genomes_av.txt)
 
+## 29.07
 
+Decicded to add to this list of homologs spme PR regions from the literature
+
+![Pr_regions](https://github.com/agreshno/Mato/blob/master/rel(Lambda)_PR.png)
+
+Fig.3 Activities of Prs from different phages (from Claudia's thesis)
 
 
 
