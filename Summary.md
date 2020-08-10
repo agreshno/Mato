@@ -98,13 +98,6 @@ Phage | OR1 | OR2 | OR3 | OL1 | OL2 | OL3 | Ref
 -|-|-|-|-|-|-|-
 Enterobacteria phage P22 | ATTAAAGAACACCTAAAT | ACTAAAGGAATCTTTAGT | ATTTAAGATGACTTAACT | ATTTAAGACTTCTTAATT | TTTGAAGAAAACTTAAAT | ACTTAAGTTTTTATTTGA | [1]
 
-
-
-
-
-
-
-
 ## References:
 
 [1](https://www.sciencedirect.com/science/article/pii/0022283680901588) - Operator sequences of bacteriophages P22 and 21
