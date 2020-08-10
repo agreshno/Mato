@@ -90,3 +90,21 @@ I have a feeling that Enterobacteria phage P22 has completely different organisa
 
 No full genome of Bacteriophage 434; only an entry with the regulatiry region.
 
+## 10.8
+
+Literature search
+
+Phage | OR1 | OR2 | OR3 | OL1 | OL2 | OL3 | Ref
+-|-|-|-|-|-|-|-
+Enterobacteria phage P22 | ATTAAAGAACACCTAAAT | ACTAAAGGAATCTTTAGT | ATTTAAGATGACTTAACT | ATTTAAGACTTCTTAATT | TTTGAAGAAAACTTAAAT | ACTTAAGTTTTTATTTGA | [1]
+
+
+
+
+
+
+
+
+## References:
+
+[1](https://www.sciencedirect.com/science/article/pii/0022283680901588) - Operator sequences of bacteriophages P22 and 21
