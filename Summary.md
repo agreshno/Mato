@@ -97,7 +97,14 @@ Literature search
 Phage | OR1 | OR2 | OR3 | OL1 | OL2 | OL3 | Ref
 -|-|-|-|-|-|-|-
 Enterobacteria phage P22 | ATTAAAGAACACCTAAAT | ACTAAAGGAATCTTTAGT | ATTTAAGATGACTTAACT | ATTTAAGACTTCTTAATT | TTTGAAGAAAACTTAAAT | ACTTAAGTTTTTATTTGA | [1]
+Enterobacteria phage phi80 | TGTTGATTTGTTAATT |  TGTTGATTTGGTGATG | TGTGGATTTGTTTACC | TGTGGATTTGTTTAAT | TGTGGAATTGTTGACC | TGTTGATTTGTTGATT | [3]
+Enterobacteria phage HK620 | GAATACCTGTAGTATTC | AAATACCCTGAGTATTG | TAATAGCTAAGGTACTT | AAATACCTACAGTATTC | AAATACCTTGGGTATTT | TTATCATTATTTCATCA | [2]
+Enterobacteria phage 933W | CGTACTGACGTACTTT | AAAACTTTTGAACTGA | TGAACCATCGTACTCA | TGAACCAACGAACTAT |-|-| [3]
+Bacteriophage 434 | ACAAGAAACAAACT | ACAAGATACAATGT | ACAAGAAACAGTTT | ACAAGGAACAATCT | ACAATAAACAATAT | ACAATGGACAAACT | [3]
 
 ## References:
 
 [1](https://www.sciencedirect.com/science/article/pii/0022283680901588) - Operator sequences of bacteriophages P22 and 21
+[2](https://www.sciencedirect.com/science/article/pii/S0022283601948685) - Nucleotide sequence of coliphage HK620 and the evolution of lambdoid phages
+[3](https://www.jstage.jst.go.jp/article/ggs/75/5/75_5_223/_article/-char/ja/) - A comparative study of the immunity region of lambdoid phages including Shiga-toxin-converting phages: molecular basis for cross immunity
+
