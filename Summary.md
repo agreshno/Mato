@@ -96,9 +96,9 @@ Literature search
 
 Phage | OR1 | OR2 | OR3 | OL1 | OL2 | OL3 | Ref
 -|-|-|-|-|-|-|-
-Escherichia phage Lambda | tacc tctg gcgg tgata | **taacaccgtgcgtgttg** | **tatcaccgcaagggata** | **tatcaccgccagtggta** | caac accg ccag agata | **tatcaccgcagatggtt** | [4]
-Escherichia phage Lambda | tatc accg ccag aggta | **taacaccgtgcgtgttg** | **tatcaccgcaagggata** | **tatcaccgccagtggta** | tatc tctg gcgg tgttg | **tatcaccgcagatggtt** | [5]
-Escherichia phage Lambda | tatc accg ctac ctctgg |**taacaccgt caacacgca**|-|-|-|-|-
+Escherichia phage Lambda | tacctctggcggtgata | **taacaccgtgcgtgttg** | **tatcaccgcaagggata** | **tatcaccgccagtggta** | caac accg ccag agata | **tatcaccgcagatggtt** | [4]
+Escherichia phage Lambda | **tatcaccgc**cagaggta | **taacaccgtgcgtgttg** | **tatcaccgcaagggata** | **tatcaccgccagtggta** | **tatctctggc**ggtgttg | **tatcaccgcagatggtt** | [5]
+Escherichia phage Lambda | **tatcaccgc**tacctctgg |**taacaccgt**caacacgca| **tatcaccgc**tatcaccgc| **tatcaccgc**taccactgg| **tatctctggc**aacaccgc| **tatcaccgc**aaccatctg| [6]
 Enterobacteria phage P22 | ATTAAAGAACACCTAAAT | ACTAAAGGAATCTTTAGT | ATTTAAGATGACTTAACT | ATTTAAGACTTCTTAATT | TTTGAAGAAAACTTAAAT | ACTTAAGTTTTTATTTGA | [1]
 Enterobacteria phage phi80 | TGTTGATTTGTTAATT |  TGTTGATTTGGTGATG | TGTGGATTTGTTTACC | TGTGGATTTGTTTAAT | TGTGGAATTGTTGACC | TGTTGATTTGTTGATT | [3]
 Enterobacteria phage HK620 | GAATACCTGTAGTATTC | AAATACCCTGAGTATTG | TAATAGCTAAGGTACTT | AAATACCTACAGTATTC | AAATACCTTGGGTATTT | TTATCATTATTTCATCA | [2]
@@ -108,7 +108,13 @@ Bacteriophage 434 | ACAAGAAACAAACT | ACAAGATACAATGT | ACAAGAAACAGTTT | ACAAGGAAC
 ## References:
 
 [1](https://www.sciencedirect.com/science/article/pii/0022283680901588) - Operator sequences of bacteriophages P22 and 21
+
 [2](https://www.sciencedirect.com/science/article/pii/S0022283601948685) - Nucleotide sequence of coliphage HK620 and the evolution of lambdoid phages
+
 [3](https://www.jstage.jst.go.jp/article/ggs/75/5/75_5_223/_article/-char/ja/) - A comparative study of the immunity region of lambdoid phages including Shiga-toxin-converting phages: molecular basis for cross immunity
+
 [4](https://www.ncbi.nlm.nih.gov/nuccore/NC_001416.1) Genome Assembly and Annotation report Escherichia phage Lambda
+
 [5](https://www.cshlpress.com/default.tpl?cart=1597250558181953169&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=468) A Genetic Switch, Third Edition, Phage Lambda Revisited
+
+[6](https://pubmed.ncbi.nlm.nih.gov/11245215/) A comparative study of the immunity region of lambdoid phages including Shiga-toxin-converting phages: molecular basis for cross immunity
