@@ -103,7 +103,7 @@ Enterobacteria phage P22 | ATTAAAGAACACCTAAAT | ACTAAAGGAATCTTTAGT | ATTTAAGATGA
 Enterobacteria phage phi80 | TGTTGATTTGTTAATT |  TGTTGATTTGGTGATG | TGTGGATTTGTTTACC | TGTGGATTTGTTTAAT | TGTGGAATTGTTGACC | TGTTGATTTGTTGATT | [3]
 Enterobacteria phage HK620 | GAATACCTGTAGTATTC | AAATACCCTGAGTATTG | TAATAGCTAAGGTACTT | AAATACCTACAGTATTC | AAATACCTTGGGTATTT | TTATCATTATTTCATCA | [2]
 Enterobacteria phage 933W | CGTACTGACGTACTTT | AAAACTTTTGAACTGA | TGAACCATCGTACTCA | TGAACCAACGAACTAT |-|-| [3]
-Bacteriophage 434 | ACAAGAAACAAACT | ACAAGATACAATGT | ACAAGAAACAGTTT | ACAAGGAACAATCT | ACAATAAACAATAT | ACAATGGACAAACT | [3]
+Bacteriophage 434 | ACAAGAAAGTTTGT  | ACAAGATACATTGT | ACAAGAAAAACTGT |  |  |  | [7]
 
 ## References:
 
@@ -118,3 +118,5 @@ Bacteriophage 434 | ACAAGAAACAAACT | ACAAGATACAATGT | ACAAGAAACAGTTT | ACAAGGAAC
 [5](https://www.cshlpress.com/default.tpl?cart=1597250558181953169&fromlink=T&linkaction=full&linksortby=oop_title&--eqSKUdatarq=468) A Genetic Switch, Third Edition, Phage Lambda Revisited
 
 [6](https://pubmed.ncbi.nlm.nih.gov/11245215/) A comparative study of the immunity region of lambdoid phages including Shiga-toxin-converting phages: molecular basis for cross immunity
+
+[7](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC327785/pdf/nar00445-0275.pdf) - Operators and promoters in the OR region of phage 434
